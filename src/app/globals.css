@@ -1,0 +1,5 @@
+
+
+.ant-bubble-list::-webkit-scrollbar{
+   display: none;
+}
