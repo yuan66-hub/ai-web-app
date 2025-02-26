@@ -9,6 +9,9 @@
 import React from 'react';
 import { AntdRegistry } from '@ant-design/nextjs-registry';
 
+export const metadata = {
+  title:'AI智能对话平台'
+}
 const RootLayout = ({ children }: React.PropsWithChildren) => (
   <html lang="en">
     <body>
